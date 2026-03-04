@@ -7,7 +7,7 @@
 
 ---
 
-## <b>💫 ABOUT ME</b>
+## 💫 <b>ABOUT ME</b>
 
 Cybersecurity professional focused on building strong expertise in both:
 
@@ -96,31 +96,43 @@ My goal is to bridge offensive expertise with defensive strategy to strengthen o
 
 ---
 
-# 💻 <b>PROGRAMMING & AUTOMATION</b>
+# 🚀 <b>CORE SECURITY PROJECTS</b>
+
+---
+
+## 🔴 Cyber Threat Intelligence Dashboard (Major Project)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Windows_Terminal-4CAF50?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rachana-a11y&repo=Cyber-Threat-Intelligence&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+Automated IOC enrichment integrating threat intelligence APIs for IP, Domain, and Hash analysis with visualization support.
 </p>
 
 ---
 
-# 🚀 <b>PROJECTS</b>
+## 🔵 Email Spam & Malware Detection System (Major Project)
 
-### 🔎 Cyber Threat Intelligence Dashboard (Major)
-[🔗 View Project](https://github.com/Rachana-a11y/cti-dashboard)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rachana-a11y&repo=Email-Spam-Detection&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+Python-based spam detection system using header analysis, metadata inspection, and phishing detection logic.
+</p>
 
 ---
 
-### 📧 Email Spam & Malware Detection System (Major)
-[🔗 View Project](https://github.com/Rachana-a11y/email-malware-detector)
+## ⚔️ NetScopePro – Network & Web Vulnerability Scanner (Mini Project)
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rachana-a11y&repo=NetScopePro&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+</p>
 
-### 🔧 Network & Web Vulnerability Scanner (Mini)
-[🔗 View Project](https://github.com/Rachana-a11y/network-web-scanner)
+<p align="center">
+Custom-built network and web scanner performing port scanning, service detection, and basic vulnerability checks.
+</p>
 
 ---
 
