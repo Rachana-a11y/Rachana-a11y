@@ -1,174 +1,107 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Rachana Appani | Cybersecurity</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<h1 align="center">💻 Rachana Appani</h1>
+<h3 align="center">Cybersecurity Analyst | Red Team | SOC | Bug Bounty</h3>
 
-    <!-- Bootstrap -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF88&size=24&center=true&vCenter=true&width=750&lines=Offensive+Security+Enthusiast;SOC+Focused+Professional;Bug+Bounty+Researcher;Threat+Intelligence+Explorer;Securing+Systems+%7C+Hunting+Vulnerabilities" />
+</p>
 
-    <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+---
 
-    <style>
-        body {
-            background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
-            color: #e0e0e0;
-            font-family: 'Poppins', sans-serif;
-        }
+## 💫 About Me
 
-        .terminal-font {
-            font-family: 'Share Tech Mono', monospace;
-            color: #00ff88;
-        }
+🔴 Passionate about **Offensive Security (Bug Bounty / Red Teaming)**  
+🔵 Focused on **Defensive Security (SOC / Threat Monitoring)**  
 
-        .hero {
-            padding: 100px 0;
-            text-align: center;
-        }
+Aligned with:
 
-        .glow {
-            color: #00ff88;
-            text-shadow: 0 0 10px #00ff88;
-        }
+`OWASP Top 10` • `NIST Framework` • `ISO 27001`
 
-        .card {
-            background-color: #1e1e1e;
-            border: 1px solid #00ff88;
-            transition: 0.3s ease;
-        }
+I bridge vulnerability research with structured security monitoring to strengthen overall security posture.
 
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 0 15px #00ff88;
-        }
+---
 
-        .section-title {
-            color: #00ff88;
-            margin-bottom: 30px;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-        }
+# 🔴 Offensive Security Expertise
 
-        .badge-skill {
-            background-color: #00ff88;
-            color: black;
-            margin: 5px;
-            padding: 8px 12px;
-            font-weight: 500;
-        }
+`Broken Access Control`  
+`IDOR`  
+`SSRF`  
+`SQL Injection`  
+`XSS`  
+`Price Manipulation`  
+`File Upload Vulnerabilities`  
+`Subdomain Takeover`
 
-        a {
-            color: #00ff88;
-            text-decoration: none;
-        }
+---
 
-        a:hover {
-            text-shadow: 0 0 8px #00ff88;
-        }
+# 🛠 Technical Arsenal
 
-        footer {
-            border-top: 1px solid #00ff88;
-            padding: 20px 0;
-            text-align: center;
-            margin-top: 60px;
-        }
-    </style>
-</head>
+### 🔎 Recon & Enumeration
+`Nmap` `Amass` `Sublist3r` `Gobuster` `Dirbuster`  
+`DNSRecon` `theHarvester` `ffuf`
 
-<body>
+### 🌐 Web Application Testing
+`Burp Suite` `SQLmap` `OWASP ZAP` `Nikto`
 
-<!-- HERO SECTION -->
-<section class="hero">
-    <h1 class="glow">Rachana Appani</h1>
-    <p class="terminal-font">
-        > Cybersecurity Analyst | Red Team Enthusiast | SOC & Bug Bounty Focus_
-    </p>
-    <p>Hyderabad, India | B.Tech - Cybersecurity</p>
-</section>
+### 💣 Exploitation & Post-Exploitation
+`Metasploit` `Hydra` `Netcat` `John the Ripper`
 
-<!-- ABOUT -->
-<div class="container">
-    <h3 class="section-title">About Me</h3>
-    <p>
-        Cybersecurity professional with strong interest in both Offensive Security (Bug Bounty / Red Teaming)
-        and Defensive Security (SOC / Threat Monitoring).
-        I combine vulnerability research with structured monitoring aligned to OWASP, NIST, and ISO 27001 frameworks.
-    </p>
-</div>
+### 📊 Vulnerability Scanning
+`Nessus` `Nmap NSE` `OpenVAS`
 
-<!-- OFFENSIVE -->
-<div class="container mt-5">
-    <h3 class="section-title">Offensive Security</h3>
-    <div>
-        <span class="badge badge-skill">SSRF</span>
-        <span class="badge badge-skill">IDOR</span>
-        <span class="badge badge-skill">SQL Injection</span>
-        <span class="badge badge-skill">XSS</span>
-        <span class="badge badge-skill">Broken Access Control</span>
-        <span class="badge badge-skill">File Upload</span>
-        <span class="badge badge-skill">Subdomain Takeover</span>
-    </div>
-</div>
+---
 
-<!-- TOOLS -->
-<div class="container mt-5">
-    <h3 class="section-title">Technical Arsenal</h3>
-    <div class="row">
-        <div class="col-md-4">
-            <div class="card p-3">
-                <h5 class="terminal-font">Recon</h5>
-                <p>Nmap, Amass, Sublist3r, Gobuster, Dirbuster, DNSRecon</p>
-            </div>
-        </div>
+# 🔵 Defensive & SOC Skills
 
-        <div class="col-md-4">
-            <div class="card p-3">
-                <h5 class="terminal-font">Web Testing</h5>
-                <p>Burp Suite, SQLmap, OWASP ZAP, Nikto, ffuf</p>
-            </div>
-        </div>
+`Threat Intelligence`  
+`IOC Enrichment`  
+`Incident Response`  
+`Cyber Kill Chain`  
+`Risk Assessment`  
+`Security Documentation (NIST / ISO 27001)`  
 
-        <div class="col-md-4">
-            <div class="card p-3">
-                <h5 class="terminal-font">Exploitation</h5>
-                <p>Metasploit, Netcat, Hydra, John the Ripper</p>
-            </div>
-        </div>
-    </div>
-</div>
+Currently Advancing:  
+`Splunk (SIEM)` `Snort (IDS/IPS)` `Threat Hunting`
 
-<!-- DEFENSIVE -->
-<div class="container mt-5">
-    <h3 class="section-title">Defensive & SOC Skills</h3>
-    <p>
-        Threat Intelligence, IOC Enrichment, SIEM (Splunk), Snort IDS/IPS,
-        Incident Response, Risk Assessment, Cyber Kill Chain.
-    </p>
-</div>
+---
 
-<!-- PROJECTS -->
-<div class="container mt-5">
-    <h3 class="section-title">Projects</h3>
-    <ul>
-        <li>Cyber Threat Intelligence Dashboard (API-based IOC enrichment)</li>
-        <li>Email Spam & Malware Detection System (Python)</li>
-    </ul>
-</div>
+# 💻 Programming & Stack
 
-<!-- CONTACT -->
-<div class="container mt-5">
-    <h3 class="section-title">Connect</h3>
-    <p>
-        LinkedIn: <a href="#">linkedin.com/in/rachana-appani</a><br>
-        Email: rachana.appani05@gmail.com
-    </p>
-</div>
+`Python` `HTML5` `Bootstrap` `Windows Terminal`
 
-<footer>
-    <p class="terminal-font">> Securing systems. Hunting vulnerabilities. Defending infrastructure.</p>
-</footer>
+---
 
-</body>
-</html>
+# 🔬 Projects
+
+🔎 **Cyber Threat Intelligence Dashboard**  
+📧 **Email Spam & Malware Detection System**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+💼 [LinkedIn](https://linkedin.com/in/rachana-appani)  
+📧 rachana.appani05@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88" />
+</p>
