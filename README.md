@@ -1,97 +1,162 @@
 <h1 align="center">💻 Rachana Appani</h1>
-<h3 align="center">Cybersecurity Analyst | Red Team | SOC | Bug Bounty</h3>
+<h3 align="center">Cybersecurity Analyst | Red Team & SOC | Threat Intelligence | AppSec</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF88&size=24&center=true&vCenter=true&width=750&lines=Offensive+Security+Enthusiast;SOC+Focused+Professional;Bug+Bounty+Researcher;Threat+Intelligence+Explorer;Securing+Systems+%7C+Hunting+Vulnerabilities" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF88&size=23&center=true&vCenter=true&width=750&lines=Cybersecurity+Professional;Red+Team+%7C+SOC+Focused;OWASP+Top+10+Specialist;Threat+Intelligence+Explorer;Vulnerability+Assessment+Enthusiast" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-🔴 Passionate about **Offensive Security (Bug Bounty / Red Teaming)**  
-🔵 Focused on **Defensive Security (SOC / Threat Monitoring)**  
+Cybersecurity professional passionate about building expertise in both:
 
-Aligned with:
+🔴 **Offensive Security (Bug Bounty / Red Teaming)**  
+🔵 **Defensive Security (SOC / Threat Monitoring)**  
+
+I combine vulnerability discovery, attack surface analysis, and structured incident response practices aligned with:
 
 `OWASP Top 10` • `NIST Framework` • `ISO 27001`
 
-I bridge vulnerability research with structured security monitoring to strengthen overall security posture.
+My goal is to contribute as a Security Analyst while continuously sharpening offensive capabilities.
 
 ---
 
-# 🔴 Offensive Security Expertise
+# 🎯 What Recruiters Look For – My Skill Set
 
-`Broken Access Control`  
-`IDOR`  
-`SSRF`  
-`SQL Injection`  
-`XSS`  
-`Price Manipulation`  
-`File Upload Vulnerabilities`  
-`Subdomain Takeover`
+## 🔴 Web Application Security
+
+✔ Broken Access Control  
+✔ IDOR  
+✔ SSRF  
+✔ SQL Injection  
+✔ Cross-Site Scripting (XSS)  
+✔ Price Manipulation  
+✔ File Upload Vulnerabilities  
+✔ Subdomain Takeover  
+✔ Authentication & Session Issues  
+✔ Security Misconfiguration  
 
 ---
 
-# 🛠 Technical Arsenal
+## 🔎 Reconnaissance & Enumeration
 
-### 🔎 Recon & Enumeration
-`Nmap` `Amass` `Sublist3r` `Gobuster` `Dirbuster`  
-`DNSRecon` `theHarvester` `ffuf`
+`Nmap` `Amass` `Sublist3r` `theHarvester`  
+`Gobuster` `Dirbuster` `ffuf` `DNSRecon`
 
-### 🌐 Web Application Testing
-`Burp Suite` `SQLmap` `OWASP ZAP` `Nikto`
+✔ Subdomain Enumeration  
+✔ Directory Brute-Forcing  
+✔ Service Fingerprinting  
+✔ Attack Surface Mapping  
 
-### 💣 Exploitation & Post-Exploitation
+---
+
+## 🌐 Web Testing & Exploitation
+
+`Burp Suite` `SQLmap` `OWASP ZAP` `Nikto`  
 `Metasploit` `Hydra` `Netcat` `John the Ripper`
 
-### 📊 Vulnerability Scanning
-`Nessus` `Nmap NSE` `OpenVAS`
+✔ Manual & Automated Testing  
+✔ Payload Crafting  
+✔ Vulnerability Validation  
+✔ Basic Post-Exploitation  
 
 ---
 
-# 🔵 Defensive & SOC Skills
+## 📊 Vulnerability Assessment
 
-`Threat Intelligence`  
-`IOC Enrichment`  
-`Incident Response`  
-`Cyber Kill Chain`  
-`Risk Assessment`  
-`Security Documentation (NIST / ISO 27001)`  
+`Nessus`  
+`Nmap NSE`  
+`OpenVAS (Conceptual)`  
 
-Currently Advancing:  
-`Splunk (SIEM)` `Snort (IDS/IPS)` `Threat Hunting`
+✔ Risk Identification  
+✔ CVSS Understanding  
+✔ Remediation Documentation  
+✔ Security Reporting  
 
 ---
 
-# 💻 Programming & Stack
+## 🔵 SOC & Defensive Skills
 
-`Python` `HTML5` `Bootstrap` `Windows Terminal`
+✔ Threat Intelligence & IOC Enrichment  
+✔ Log Analysis (Learning Splunk)  
+✔ IDS/IPS (Snort – Learning)  
+✔ Incident Response Fundamentals  
+✔ Cyber Kill Chain Analysis  
+✔ Risk Assessment & Reporting  
+✔ Security Documentation aligned with NIST & ISO 27001  
+
+---
+
+## 💻 Programming & Automation
+
+`Python` – Security scripting & automation  
+`HTML5` `Bootstrap`  
+Basic API Integration  
+Windows Terminal  
+
+---
+
+# 🧠 Additional Professional Skills (Very Important for Jobs)
+
+✔ Technical Documentation  
+✔ Clear Vulnerability Reporting  
+✔ Analytical Thinking  
+✔ Root Cause Analysis  
+✔ Communication with Stakeholders  
+✔ Multi-tasking under pressure  
+✔ Compliance Awareness  
+
+(Recruiters actually look for these 👆)
 
 ---
 
 # 🔬 Projects
 
-🔎 **Cyber Threat Intelligence Dashboard**  
-📧 **Email Spam & Malware Detection System**
+## 🚀 Major Project 1 – Cyber Threat Intelligence Dashboard
+
+✔ Automated IOC Enrichment (IP, Domain, File Hash)  
+✔ Integrated VirusTotal, AlienVault OTX, AbuseIPDB  
+✔ Visualized Threat Relationships & Geolocation  
+✔ Improved threat investigation efficiency  
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Major Project 2 – Email Spam & Malware Detection System
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark" />
-</p>
+✔ Python-based detection engine  
+✔ Email Header & Metadata Analysis  
+✔ Rule-based Phishing Detection  
+✔ Attachment Risk Inspection  
+✔ Real-time Security Alert Generation  
 
 ---
 
-# 🐍 Contribution Snake
+## 🔧 Mini Project – Network & Web Vulnerability Scanner
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</p>
+✔ Built a custom scanner using Python  
+✔ Integrated Port Scanning & Service Detection  
+✔ Implemented Basic Web Vulnerability Checks  
+✔ Automated Target Enumeration  
+✔ Generated Structured Scan Reports  
+
+(Shows automation + understanding of scanning logic — very strong for entry-level roles)
+
+---
+
+# 📈 Currently Advancing
+
+`Splunk (SIEM)`  
+`Snort (IDS/IPS)`  
+`Threat Hunting`  
+`Digital Forensics Basics`  
+`Advanced Web Exploitation Techniques`
+
+---
+
+# 🎯 Career Objective
+
+To secure a role as a SOC Analyst / Security Analyst where I can apply vulnerability assessment, threat analysis, and monitoring expertise while continuously growing in offensive and defensive cybersecurity domains.
 
 ---
 
@@ -99,9 +164,3 @@ Currently Advancing:
 
 💼 [LinkedIn](https://linkedin.com/in/rachana-appani)  
 📧 rachana.appani05@gmail.com
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88" />
-</p>
