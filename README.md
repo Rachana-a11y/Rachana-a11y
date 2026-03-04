@@ -1,21 +1,174 @@
-# 💫 About Me:
-Perfect. You’re thinking correctly.<br><br>Most cybersecurity professionals today aim to build:<br><br>* 🔴 **Red Team / Bug Bounty skills** (freelance, independent income, deep technical expertise)<br>* 🔵 **Blue Team / SOC skills** (stable career, enterprise security operations)<br><br>So instead of choosing one, we’ll brand you as a **well-rounded offensive + defensive security professional**.<br><br>Here is your **complete, powerful, dual-focused GitHub profile** with strong positioning and all relevant tools included — but structured professionally (not overcrowded or unrealistic).<br><br>You can paste this directly into `README.md`.<br><br>---<br><br># 👩‍💻 Rachana Appani<br><br>### Cybersecurity Analyst | Red Team Enthusiast | SOC & Bug Bounty Focus<br><br>📍 Hyderabad, India<br>🎓 B.Tech – Computer Science (Cybersecurity)<br>🔐 Open to SOC / Security Analyst / AppSec Opportunities<br><br>---<br><br># 🚀 About Me<br><br>I am a cybersecurity professional with strong interest in both:<br><br>* 🔴 **Offensive Security (Bug Bounty / Red Teaming)**<br>* 🔵 **Defensive Security (SOC / Threat Monitoring)**<br><br>I combine hands-on web application testing and vulnerability research with structured security monitoring and risk analysis aligned to **OWASP Top 10, NIST, and ISO 27001** frameworks.<br><br>My goal is to build deep technical expertise in offensive security while contributing professionally within Security Operations and enterprise defense environments.<br><br>---<br><br># 🔴 Offensive Security & Bug Bounty Knowledge<br><br>Strong understanding and practical exposure to identifying:<br><br>* 🔓 Broken Access Control<br>* 🔁 IDOR (Insecure Direct Object Reference)<br>* 🌐 SSRF (Server-Side Request Forgery)<br>* 💉 SQL Injection (SQLi)<br>* ⚡ Cross-Site Scripting (XSS)<br>* 💰 Price Manipulation Vulnerabilities<br>* 📂 Unrestricted File Upload<br>* 🔑 Authentication & Session Management Issues<br>* 🧱 Security Misconfiguration<br>* 🌍 Subdomain Takeover<br><br>Familiar with real-world attack methodologies, recon workflows, and vulnerability chaining techniques.<br><br>---<br><br># 🛠️ Technical Arsenal<br><br>## 🐧 Kali Linux Proficiency<br><br>Experienced in using Kali Linux for reconnaissance, enumeration, exploitation testing, and credential auditing.<br><br>---<br><br>## 🔎 Recon & Enumeration<br><br>* Nmap<br>* Amass<br>* Sublist3r<br>* Gobuster<br>* DirBuster<br>* WhatWeb<br>* theHarvester<br>* Subdomain Takeover Detection Tools<br>* DNSRecon<br><br>---<br><br>## 🌐 Web Application Testing<br><br>* Burp Suite<br>* SQLmap<br>* OWASP ZAP<br>* Nikto<br>* Gobuster<br>* ffuf<br><br>---<br><br>## 📊 Vulnerability Scanning<br><br>* Nessus<br>* Nmap Scripting Engine (NSE)<br>* OpenVAS (conceptual familiarity)<br><br>---<br><br>## 💣 Exploitation & Post-Exploitation<br><br>* Metasploit Framework<br>* SQLmap<br>* Netcat<br>* John the Ripper<br>* Hydra<br><br>---<br><br># 🔵 Defensive Security & SOC Skills<br><br>* Threat Intelligence & IOC Enrichment<br>* Log Analysis (Learning SIEM – Splunk)<br>* IDS/IPS (Snort – Learning)<br>* Incident Response Fundamentals<br>* Risk Assessment & Reporting<br>* Cyber Kill Chain Analysis<br>* Security Documentation aligned with NIST & ISO 27001<br><br>---<br><br># 💻 Programming & Automation<br><br>* Python (Security scripting & automation)<br>* Basic API integration for threat intelligence<br><br>---<br><br># 🔬 Security Projects<br><br>## 🔎 Cyber Threat Intelligence Dashboard<br><br>* Automated IOC enrichment (IP, Domain, Hash)<br>* Integrated VirusTotal, AlienVault OTX, AbuseIPDB<br>* Visualized threat relationships and geolocation<br>* Improved analysis speed for threat investigation<br><br>## 📧 Email Spam & Malware Detection System<br><br>* Python-based detection engine<br>* Email header & metadata inspection<br>* Rule-based phishing detection<br>* Attachment risk analysis<br><br>---<br><br># 📈 Currently Advancing<br><br>* Splunk (SIEM & Log Correlation)<br>* Threat Hunting Techniques<br>* Digital Forensics Tools<br>* Advanced Web Exploitation Techniques<br><br>---<br><br># 🎯 Career Vision<br><br>To grow as a versatile cybersecurity professional capable of both:<br><br>* Identifying and exploiting vulnerabilities (Red Team / Bug Bounty)<br>* Monitoring, detecting, and responding to threats (SOC / Blue Team)<br><br>Bridging offensive knowledge with defensive strategy to strengthen overall security posture.<br><br>---<br><br># 📫 Connect With Me<br><br>💼 LinkedIn: linkedin.com/in/rachana-appani<br>📧 [rachana.appani05@gmail.com](mailto:rachana.appani05@gmail.com)<br><br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rachana Appani | Cybersecurity</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/rachana-appani) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rachana.appani05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rachana.appani05@gmail.com) 
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
 
-# 💻 Tech Stack:
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rachana-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rachana-a11y&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachana-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+    <style>
+        body {
+            background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
+            color: #e0e0e0;
+            font-family: 'Poppins', sans-serif;
+        }
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rachana-a11y&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+        .terminal-font {
+            font-family: 'Share Tech Mono', monospace;
+            color: #00ff88;
+        }
 
----
-[![](https://visitcount.itsvg.in/api?id=Rachana-a11y&icon=10&color=0)](https://visitcount.itsvg.in)
+        .hero {
+            padding: 100px 0;
+            text-align: center;
+        }
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+        .glow {
+            color: #00ff88;
+            text-shadow: 0 0 10px #00ff88;
+        }
+
+        .card {
+            background-color: #1e1e1e;
+            border: 1px solid #00ff88;
+            transition: 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 0 15px #00ff88;
+        }
+
+        .section-title {
+            color: #00ff88;
+            margin-bottom: 30px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .badge-skill {
+            background-color: #00ff88;
+            color: black;
+            margin: 5px;
+            padding: 8px 12px;
+            font-weight: 500;
+        }
+
+        a {
+            color: #00ff88;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-shadow: 0 0 8px #00ff88;
+        }
+
+        footer {
+            border-top: 1px solid #00ff88;
+            padding: 20px 0;
+            text-align: center;
+            margin-top: 60px;
+        }
+    </style>
+</head>
+
+<body>
+
+<!-- HERO SECTION -->
+<section class="hero">
+    <h1 class="glow">Rachana Appani</h1>
+    <p class="terminal-font">
+        > Cybersecurity Analyst | Red Team Enthusiast | SOC & Bug Bounty Focus_
+    </p>
+    <p>Hyderabad, India | B.Tech - Cybersecurity</p>
+</section>
+
+<!-- ABOUT -->
+<div class="container">
+    <h3 class="section-title">About Me</h3>
+    <p>
+        Cybersecurity professional with strong interest in both Offensive Security (Bug Bounty / Red Teaming)
+        and Defensive Security (SOC / Threat Monitoring).
+        I combine vulnerability research with structured monitoring aligned to OWASP, NIST, and ISO 27001 frameworks.
+    </p>
+</div>
+
+<!-- OFFENSIVE -->
+<div class="container mt-5">
+    <h3 class="section-title">Offensive Security</h3>
+    <div>
+        <span class="badge badge-skill">SSRF</span>
+        <span class="badge badge-skill">IDOR</span>
+        <span class="badge badge-skill">SQL Injection</span>
+        <span class="badge badge-skill">XSS</span>
+        <span class="badge badge-skill">Broken Access Control</span>
+        <span class="badge badge-skill">File Upload</span>
+        <span class="badge badge-skill">Subdomain Takeover</span>
+    </div>
+</div>
+
+<!-- TOOLS -->
+<div class="container mt-5">
+    <h3 class="section-title">Technical Arsenal</h3>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card p-3">
+                <h5 class="terminal-font">Recon</h5>
+                <p>Nmap, Amass, Sublist3r, Gobuster, Dirbuster, DNSRecon</p>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card p-3">
+                <h5 class="terminal-font">Web Testing</h5>
+                <p>Burp Suite, SQLmap, OWASP ZAP, Nikto, ffuf</p>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card p-3">
+                <h5 class="terminal-font">Exploitation</h5>
+                <p>Metasploit, Netcat, Hydra, John the Ripper</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- DEFENSIVE -->
+<div class="container mt-5">
+    <h3 class="section-title">Defensive & SOC Skills</h3>
+    <p>
+        Threat Intelligence, IOC Enrichment, SIEM (Splunk), Snort IDS/IPS,
+        Incident Response, Risk Assessment, Cyber Kill Chain.
+    </p>
+</div>
+
+<!-- PROJECTS -->
+<div class="container mt-5">
+    <h3 class="section-title">Projects</h3>
+    <ul>
+        <li>Cyber Threat Intelligence Dashboard (API-based IOC enrichment)</li>
+        <li>Email Spam & Malware Detection System (Python)</li>
+    </ul>
+</div>
+
+<!-- CONTACT -->
+<div class="container mt-5">
+    <h3 class="section-title">Connect</h3>
+    <p>
+        LinkedIn: <a href="#">linkedin.com/in/rachana-appani</a><br>
+        Email: rachana.appani05@gmail.com
+    </p>
+</div>
+
+<footer>
+    <p class="terminal-font">> Securing systems. Hunting vulnerabilities. Defending infrastructure.</p>
+</footer>
+
+</body>
+</html>
