@@ -1,120 +1,166 @@
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rachana-a11y&label=Profile%20Views&color=0e75b6&style=flat" alt="Rachana-a11y" />
-</p>
+<div align="center">
 
-<!-- Animated Wave Header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <strong> Hi there, I'm Rachana Appani!</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    VISITOR COUNTER                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- Animated Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Red+Team+%E2%9A%94%EF%B8%8F+%7C+Blue+Team+%F0%9F%9B%A1%EF%B8%8F+%7C+Cybersecurity+Analyst;SOC+Focused+Professional;Offense+Meets+Defense;OWASP+Top+10+Specialist;Threat+Intelligence+Explorer;Bug+Bounty+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Rachana-a11y&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
----
+<br/><br/>
 
-## 🌟 ABOUT ME
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    HEADER BANNER                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <em>A passionate Cybersecurity professional on a mission to bridge <strong>offensive expertise</strong> with <strong>defensive strategy</strong>.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Rachana%20Appani&fontSize=55&fontColor=00D9FF&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Red%20Team%20%E2%9A%94%EF%B8%8F%20%7C%20Blue%20Team%20%F0%9F%9B%A1%EF%B8%8F&descAlignY=58&descSize=18&descColor=FFFFFF&animation=fadeIn" width="100%" />
 
-I'm a dedicated Cybersecurity Analyst with expertise in both Red Team and Blue Team operations. I thrive on vulnerability research, threat intelligence, and building robust security solutions that protect organizations from modern cyber threats.
+<br/>
 
-- 🔐 **Red Team | Bug Bounty** — Hunting vulnerabilities and breaking things (ethically!)
-- 🛡️ **Blue Team | SOC** — Monitoring, detecting, and defending against real-world threats
-- 🧠 **OWASP Top 10 Specialist** — Deep expertise in web application security
-- 🕵️ **Threat Intelligence Explorer** — Turning raw data into actionable insights
-- ☕ **Fun fact:** I debug code with coffee and defend networks with determination!
-- 🌱 **Currently learning:** Advanced malware analysis & cloud security
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED TYPING                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=👋+Hi+there%2C+I'm+Rachana+Appani!;🔐+Red+Team+%7C+Bug+Bounty+Hunter;🛡️+Blue+Team+%7C+SOC+Analyst;🕵️+Threat+Intelligence+Explorer;💻+OWASP+Top+10+Specialist;⚔️+Offense+Meets+Defense!" alt="Typing SVG" />
+
+</div>
+
+<br/>
 
 ---
 
-## 🛠️ TECH STACK
+## 👩‍💻 About Me
 
-### 🔴 Security Tools
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
+
+I'm a dedicated **Cybersecurity Analyst** with a dual focus on offensive and defensive security. I combine vulnerability research, threat intelligence, and structured incident response to strengthen organizational security posture.
+
+<br/>
+
+- 🔐 &nbsp;**Red Team / Bug Bounty** — Hunting vulnerabilities ethically
+- 🛡️ &nbsp;**Blue Team / SOC** — Monitoring, detecting & defending threats
+- 🧠 &nbsp;**OWASP Top 10 Specialist** — Deep web application security expertise
+- 🕵️ &nbsp;**Threat Intelligence** — Turning raw IOCs into actionable insights
+- 🌱 &nbsp;**Currently learning** — Advanced malware analysis & cloud security
+- ⚡ &nbsp;**Fun fact** — I debug with ☕ and defend networks with determination!
+
+<br/><br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<br/>
+
+### 🔴 &nbsp;Security & Offensive Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logo=nmap&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 
-### 💻 Programming & Scripting
+### 🔵 &nbsp;SOC & Defensive Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
 </p>
 
-### 🔵 SOC & Defensive Tools
+### 💻 &nbsp;Programming & Scripting
+
 <p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### ☁️ Platforms & Tools
+### ☁️ &nbsp;Platforms & Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+&nbsp;<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 </p>
+
+<br/>
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rachana-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rachana-a11y&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachana-a11y&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Rachana-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rachana-a11y&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="48%" />
 
-## 🏆 GITHUB TROPHIES
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rachana-a11y&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachana-a11y&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="42%" />
 
----
+</div>
 
-## 🌐 CONNECT WITH ME
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rachana-appani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rachana@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Rachana-a11y" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<br/>
 
 ---
 
-<p align="center">
-  <em>⚔️ "Offense Meets Defense — Building Cyber Resilience One Vulnerability at a Time." 🛡️</em>
-</p>
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
-</p>
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rachana-a11y&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+</div>
+
+<br/>
+
+---
+
+## 🌐 Connect With Me
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rachana-appani">
+  <img src="https://img.shields.io/badge/LinkedIn-Rachana%20Appani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Rachana-a11y">
+  <img src="https://img.shields.io/badge/GitHub-Rachana--a11y-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:rachana@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+
+<br/><br/>
+
+> ⚔️ *"Offense Meets Defense — Building Cyber Resilience, One Vulnerability at a Time."* 🛡️
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" />
+
+</div>
